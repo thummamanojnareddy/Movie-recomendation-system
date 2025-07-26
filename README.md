@@ -1,5 +1,4 @@
 
----
 
 ```markdown
 # 🎬 Movie Recommendation System using Streamlit
