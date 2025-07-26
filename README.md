@@ -1,4 +1,3 @@
-Certainly! Below is a professionally written `README.md` for your **Streamlit-based Movie Recommendation System**, suitable for inclusion in a GitHub repository or project submission.
 
 ---
 
